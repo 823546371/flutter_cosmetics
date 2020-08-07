@@ -8,9 +8,9 @@ Cosmetics Mobile App Store
 
 ### Video
 
-YouTube : [Watch it on YouTube]()
+YouTube : [Watch it on YouTube](https://youtu.be/_S13wYTlKvI)
 
-Bilibili : [Watch it on Bilibili]()
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1QA411Y7ke/)
 
 
 ### UI 
